@@ -104,6 +104,7 @@ Conclusão
 
 Ao longo do desenvolvimento deste sistema, adquirimos novas técnicas de modularização, possibilitando o rápido e prático desenvolvimento de uma aplicação em Python. A manipulação da interface gráfica se revelou um desafio que ampliou nossos horizontes e abriu possibilidades para futuros projetos. Enfrentamos dificuldades em algumas etapas, como a transição de janelas utilizando o Toplevel do "CustomTkinter" e a abertura da segunda parte do programa. Cada desafio enfrentado proporcionou aprendizados ímpares no âmbito acadêmico, os quais levaremos como valiosas lições para toda a vida.
 Expressamos nossa sincera gratidão ao nosso estimado mestre, Prof. Rafael, por toda a orientação e apoio fornecidos ao longo desse percurso acadêmico.
+
 Referências bibliográficas: documentação CustomTkinter: https://libraries.io/pypi/customtkinter
 xampp documentação: https://www.apachefriends.org/docs/ , doc Tkinter: https://docs.python.org/3/library/tk.html ,
  Video de basamento: https://www.youtube.com/watch?v=yDRsbt714WA , https://www.youtube.com/watch?v=rQLO1m8oia4 .
